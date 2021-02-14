@@ -1,0 +1,110 @@
+/Users/imac/Projects/MicroservicesApp/Catalog.API/obj/Debug/netcoreapp3.1/Catalog.API.csprojAssemblyReference.cache
+/Users/imac/Projects/MicroservicesApp/Catalog.API/obj/Debug/netcoreapp3.1/Catalog.API.AssemblyInfoInputs.cache
+/Users/imac/Projects/MicroservicesApp/Catalog.API/obj/Debug/netcoreapp3.1/Catalog.API.AssemblyInfo.cs
+/Users/imac/Projects/MicroservicesApp/Catalog.API/obj/Debug/netcoreapp3.1/Catalog.API.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/MicroservicesApp/Catalog.API/obj/Debug/netcoreapp3.1/Catalog.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/imac/Projects/MicroservicesApp/Catalog.API/obj/Debug/netcoreapp3.1/Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/Catalog.API.deps.json
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/Catalog.API.runtimeconfig.json
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/Catalog.API.runtimeconfig.dev.json
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/Catalog.API.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/Catalog.API.pdb
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/DnsClient.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/MongoDB.Libmongocrypt.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/SharpCompress.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/runtimes/win/native/libzstd.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy32.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy64.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/obj/Debug/netcoreapp3.1/Catalog.API.RazorTargetAssemblyInfo.cache
+/Users/imac/Projects/MicroservicesApp/Catalog.API/obj/Debug/netcoreapp3.1/Catalog.API.csproj.CopyComplete
+/Users/imac/Projects/MicroservicesApp/Catalog.API/obj/Debug/netcoreapp3.1/staticwebassets/Catalog.API.StaticWebAssets.Manifest.cache
+/Users/imac/Projects/MicroservicesApp/Catalog.API/obj/Debug/netcoreapp3.1/staticwebassets/Catalog.API.StaticWebAssets.xml
+/Users/imac/Projects/MicroservicesApp/Catalog.API/obj/Debug/netcoreapp3.1/Catalog.API.dll
+/Users/imac/Projects/MicroservicesApp/Catalog.API/obj/Debug/netcoreapp3.1/Catalog.API.pdb
+/Users/imac/Projects/MicroservicesApp/Catalog.API/obj/Debug/netcoreapp3.1/Catalog.API.genruntimeconfig.cache
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.exe
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.deps.json
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.runtimeconfig.json
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.runtimeconfig.dev.json
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.pdb
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.API.StaticWebAssets.Manifest.cache
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.API.StaticWebAssets.xml
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Catalog.API.styles.css
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CopyComplete
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.dll
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.pdb
+C:\Users\User\Downloads\Telegram Desktop\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.exe
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.deps.json
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.runtimeconfig.json
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.pdb
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.API.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.API.StaticWebAssets.xml
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Catalog.API.styles.css
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CopyComplete
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.dll
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.pdb
+C:\Users\User\Desktop\C#\MicroservicesApp\MicroservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.genruntimeconfig.cache

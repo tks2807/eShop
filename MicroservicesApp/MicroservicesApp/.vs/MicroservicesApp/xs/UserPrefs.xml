@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{A7E3803F-0FA0-413C-B237-D5108CA783DF}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.Catalog.Catalog.API PreferredExecutionTarget="/Users/imac/Desktop/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Catalog.API/Startup.cs">
+    <Files>
+      <File FileName="Catalog.API/Controllers/CatalogController.cs" Line="58" Column="31" />
+      <File FileName="Catalog.API/Startup.cs" Line="86" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MicroservicesApp" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Catalog" expanded="True">
+                <Node name="Catalog.API" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Data" expanded="True">
+                    <Node name="Interfaces" expanded="True" />
+                  </Node>
+                  <Node name="Entities" expanded="True" />
+                  <Node name="Properties" expanded="True" />
+                  <Node name="Repositories" expanded="True">
+                    <Node name="Interfaces" expanded="True" />
+                  </Node>
+                  <Node name="Settings" expanded="True" />
+                  <Node name="Startup.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
